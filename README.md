@@ -25,7 +25,7 @@ Model daily UAH-USD exchange rate as outcome of such factors:
 - [Brent Crude Oil Prices](https://www.macrotrends.net/2480/brent-crude-oil-prices-10-year-daily-chart) csv data
 - [Wheat Prices](https://www.macrotrends.net/2534/wheat-prices-historical-chart-data) csv data
 - [LME Steel Rebar Prices](https://www.lme.com/Market-Data/Reports-and-data/Historical-data-for-cash-settled-futures) xlsx data
-- [MVIS EM Sovereign Bond Index](https://www.mvis-indices.com/indices/bond/mvis-em-sovereign-bond-%28usd-eur%29) txt data
+- [MVIS EM Sovereign Bond Index](https://www.mvis-indices.com/indices/bond/mvis-em-sovereign-bond-usd-eur) txt data
 
 ### Project team
 
