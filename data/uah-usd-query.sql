@@ -15,4 +15,5 @@ WHERE uah_usd IS NOT NULL
       AND pln_usd IS NOT NULL
       AND brent IS NOT NULL
       AND steal IS NOT NULL
+      AND wheat IS NOT NULL
       AND mvemsd IS NOT NULL;
